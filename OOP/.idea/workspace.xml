@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2caebf0e-8144-4924-b17c-d6647bf3b0df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Process/seach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/ManagerStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/ManagerStudent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data" beforeDir="false" afterPath="$PROJECT_DIR$/Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UgqiJJerZpzkNwzl8LFIFTsegu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2caebf0e-8144-4924-b17c-d6647bf3b0df" name="Default Changelist" comment="" />
+      <created>1575788711869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575788711869</updated>
+      <workItem from="1575788713258" duration="11625000" />
+      <workItem from="1575818212843" duration="4299000" />
+      <workItem from="1575853571993" duration="10336000" />
+      <workItem from="1575880214114" duration="2230000" />
+      <workItem from="1575942952942" duration="9235000" />
+      <workItem from="1576030395637" duration="66000" />
+      <workItem from="1576046640457" duration="6877000" />
+      <workItem from="1576076136230" duration="1243000" />
+      <workItem from="1576142432543" duration="579000" />
+      <workItem from="1576295570672" duration="351000" />
+      <workItem from="1576296323427" duration="234000" />
+      <workItem from="1576632162179" duration="6613000" />
+      <workItem from="1576746405739" duration="1465000" />
+      <workItem from="1576768490138" duration="68000" />
+      <workItem from="1576768572143" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="100" width="501" height="905" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1" timestamp="1575949948641">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="100" width="501" height="905" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function1/67.27.1853.1053@67.27.1853.1053" timestamp="1575949948641" />
+    <state x="558" y="146" width="860" height="813" key="CommitChangelistDialog2" timestamp="1576048289058">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="558" y="146" width="860" height="813" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1576048289058" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1576768832559">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1576768832559" />
+    <state x="795" y="366" width="386" height="373" key="NewPhpClassDialog" timestamp="1575791734255">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="795" y="366" width="386" height="373" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575791734255" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1576632361709">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1576632361709" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1576632288240">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1576632288240" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1575945996026">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575945996026" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1575856554050">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1575856554050" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Process/seach.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
